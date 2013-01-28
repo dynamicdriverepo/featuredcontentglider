@@ -3,7 +3,7 @@
   "title": "Featured Content Glider",
   "description": "This script lets you painlessly showcase new or featured contents on your page, by turning ordinary pieces of HTML content into an interactive, glide in slideshow.",
   "keywords": ["ul", "slideshow", "youtube", "effect", "slider"],
-  "version": "1.0.0",
+  "version": "2.6.0",
   "author": {
     "name": "Dynamic Drive",
     "email" : "ddrivehelp@gmail.com",
