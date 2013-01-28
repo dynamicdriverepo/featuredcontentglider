@@ -1,9 +1,9 @@
 {
-  "name": "dd.scrollspymenu",
-  "title": "DD ScrollSpy Menu",
-  "description": "DD ScrollSpy Menu lets you define a menu whose items are automatically highlighted based on the portion of the page the user is currently viewing.",
-  "keywords": ["scrollspy", "menu", "tabs", "bookmark", "effect", "ui"],
-  "version": "1.0.2",
+  "name": "featuredcontentglider",
+  "title": "Featured Content Glider",
+  "description": "This script lets you painlessly showcase new or featured contents on your page, by turning ordinary pieces of HTML content into an interactive, glide in slideshow.",
+  "keywords": ["ul", "slideshow", "youtube", "effect", "slider"],
+  "version": "1.0.0",
   "author": {
     "name": "Dynamic Drive",
     "email" : "ddrivehelp@gmail.com",
@@ -16,10 +16,10 @@
     }
   ],
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": ">=1.3"
   },
-  "homepage": "http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm",
-  "docs": "http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm",
-  "demo": "http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm",
-  "download": "http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm"
+  "homepage": "http://www.dynamicdrive.com/dynamicindex17/featuredcontentglider.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex17/featuredcontentglider.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex17/featuredcontentglider.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex17/featuredcontentglider.htm"
 }

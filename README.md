@@ -1,4 +1,4 @@
-# DD ScrollSpy Menu #
+# Featured Content Glider #
 
 *Description:* This script lets you painlessly showcase new or featured contents on your page, by turning ordinary pieces of HTML content into an interactive, "glide in" slideshow. For the ultimate in the ability to customize its look, the pagination links are also ordinary links that you define on the page, but with special CSS class names inserted when it should perform a certain task (ie: "toc" class if it's a pagination link). It supports Youtube videos within its slides, with the help of Youtube's API.
 
